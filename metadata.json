@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Shooter (갤럭시 슈팅)",
+  "description": "모바일 및 데스크톱 지원 고전 갤럭시 스타일 우주 슈팅 게임. 스테이지, 보스전, 특수 아이템, 레트로 사운드 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
